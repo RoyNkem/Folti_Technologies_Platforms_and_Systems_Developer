@@ -1,9 +1,9 @@
 # The Result-Oriented Software Engineer
-# My Job Responsibilities Management System
+## Introduction
 
-On [2024-09-02](https://github.com/RoyNkem/your-repo/milestones?direction=asc&sort=due_date&state=open) I got my current role as an IT Application Platform and Systems Developer. The role is a whole lot broader than my usual and previous roles as Mobile Software Engineer building for Android and iOS/WatchOS platforms. So I broke down my core responsibilities (as at the time of writing), and developed a system to help me manage my 
+On [2024-09-02](https://github.com/RoyNkem/your-repo/milestones?direction=asc&sort=due_date&state=open) I got my current role as an IT Application Platform and Systems Developer. The role is a whole lot broader than my usual and previous roles as Mobile Software Engineer building for Android and iOS/WatchOS platforms. So I broke down my core responsibilities (as at the time of writing), and developed a system to help me manage my tasks.
 
-This repository contains the resources and guidelines I use to efficiently manage my diverse job responsibilities. I believe it can be employed in a wide range of different roles, but it is particularly tailored for roles in software engineering and IT management.
+This repo contains the resources and guidelines I use to efficiently manage my responsibilities. I believe it can be employed in a wide range of different roles, but it is particularly tailored for roles in software engineering and IT management.
 
 ## Table of Contents
 
@@ -13,10 +13,6 @@ This repository contains the resources and guidelines I use to efficiently manag
 4. [Tools and Resources](#tools-and-resources)
 5. [Best Practices](#best-practices)
 6. [Contributing](#contributing)
-
-## Introduction
-
-Managing a wide array of responsibilities in a technical role can be challenging. This system aims to provide a structured approach to task management, time allocation, and communication with stakeholders.
 
 ## Responsibility Categories
 
