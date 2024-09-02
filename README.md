@@ -55,12 +55,58 @@ I have put in place a suite of management system which consists of the following
 
 ## Tools and Resources
 
-We utilize the following tools to implement the management system:
+Given my team's primary use of Microsoft Teams, I utilize the following tools that integrate seamlessly with the Microsoft ecosystem
 
-- **Task Management**: Jira, Trello, Asana, or Microsoft Planner
-- **Time Tracking**: Toggl, RescueTime, or Clockify
-- **Documentation**: Notion, Confluence, or OneNote
-- **Automation**: Zapier or Microsoft Power Automate
+### Task Management:
+
+1. **Microsoft Planner**: Integrated directly into Teams for task and project management.
+2. **Microsoft To Do**: For personal task management, syncs across devices and integrates with Teams.
+
+
+### Time Tracking:
+
+1. **Clockify for Microsoft Teams**: Offers time tracking capabilities directly within Teams.
+
+
+### Documentation:
+
+1. **OneNote**: Seamlessly integrates with Teams for note-taking and documentation.
+2. **SharePoint**: For more structured document management and collaboration.
+
+
+### Automation:
+
+1. **Microsoft Power Automate**: Create workflows and automate processes across Microsoft 365 apps.
+
+
+### Communication and Collaboration:
+
+1. **Microsoft Teams**: Central hub for all communication, video conferencing, and file sharing.
+
+
+### Project Management:
+
+1. **Microsoft Project**: For more complex project management needs, integrates with Teams.
+
+
+### Version Control and Code Repository:
+
+1. **Azure DevOps**: Integrates with Teams for code management, CI/CD pipelines, and agile planning.
+
+
+### Reporting and Analytics:
+
+1. **Power BI**: Create and share reports and dashboards, integrates with Teams.
+
+
+### Learning and Development:
+
+1. **Microsoft Learn**: Access learning resources directly through Teams.
+
+
+### File Storage and Sharing:
+
+1. **OneDrive and SharePoint**: Integrated file storage solutions accessible through Teams.
 
 ## Best Practices
 
